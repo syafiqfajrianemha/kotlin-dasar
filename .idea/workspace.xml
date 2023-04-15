@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="27aa5e75-c544-4e4e-8125-8de7e1a9b43c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2O2PuDestOsUogzVrJyb9tHsYoI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Kotlin.MainParameterKt">
+    <configuration name="ClosureKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="belajar-kotlin-dasar" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="ClosureKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ImportKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="belajar-kotlin-dasar" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="ImportKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InlineFunctionKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="belajar-kotlin-dasar" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="InlineFunctionKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LabelKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="belajar-kotlin-dasar" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="LabelKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainParameterKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="belajar-kotlin-dasar" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="&quot;syafiq aja&quot; &quot;fajrian&quot; &quot;emha&quot; &quot;-java&quot; &quot;-version&quot;" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="MainParameterKt" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Kotlin.ClosureKt" />
+      <item itemvalue="Kotlin.ImportKt" />
+      <item itemvalue="Kotlin.InlineFunctionKt" />
+      <item itemvalue="Kotlin.LabelKt" />
+      <item itemvalue="Kotlin.MainParameterKt" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.MainParameterKt" />
+        <item itemvalue="Kotlin.ImportKt" />
+        <item itemvalue="Kotlin.LabelKt" />
+        <item itemvalue="Kotlin.InlineFunctionKt" />
+        <item itemvalue="Kotlin.ClosureKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="27aa5e75-c544-4e4e-8125-8de7e1a9b43c" name="Default Changelist" comment="" />
+      <created>1680755924463</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680755924463</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="171" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1681600608386">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="414" y="171" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1280.688/0.0.1920.1032/-1280.52.1280.1024@0.0.1920.1032" timestamp="1681600608386" />
+    <state width="1877" height="247" key="GridCell.Tab.0.bottom" timestamp="1681600615586">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="277" key="GridCell.Tab.0.bottom/0.0.1280.672/0.-1080.1920.1032@0.-1080.1920.1032" timestamp="1680862578194" />
+    <state width="1237" height="160" key="GridCell.Tab.0.bottom/0.0.1280.672@0.0.1280.672" timestamp="1680822084958" />
+    <state width="914" height="276" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1681165157919" />
+    <state width="1877" height="247" key="GridCell.Tab.0.bottom/1920.0.1280.688/0.0.1920.1032/-1280.52.1280.1024@0.0.1920.1032" timestamp="1681600615586" />
+    <state width="914" height="276" key="GridCell.Tab.0.bottom/1920.0.1280.688/0.0.1920.1032@0.0.1920.1032" timestamp="1681280706449" />
+    <state width="1877" height="247" key="GridCell.Tab.0.center" timestamp="1681600615586">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="277" key="GridCell.Tab.0.center/0.0.1280.672/0.-1080.1920.1032@0.-1080.1920.1032" timestamp="1680862578194" />
+    <state width="1237" height="160" key="GridCell.Tab.0.center/0.0.1280.672@0.0.1280.672" timestamp="1680822084958" />
+    <state width="914" height="276" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1681165157919" />
+    <state width="1877" height="247" key="GridCell.Tab.0.center/1920.0.1280.688/0.0.1920.1032/-1280.52.1280.1024@0.0.1920.1032" timestamp="1681600615586" />
+    <state width="914" height="276" key="GridCell.Tab.0.center/1920.0.1280.688/0.0.1920.1032@0.0.1920.1032" timestamp="1681280706449" />
+    <state width="1877" height="247" key="GridCell.Tab.0.left" timestamp="1681600615585">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="277" key="GridCell.Tab.0.left/0.0.1280.672/0.-1080.1920.1032@0.-1080.1920.1032" timestamp="1680862578194" />
+    <state width="1237" height="160" key="GridCell.Tab.0.left/0.0.1280.672@0.0.1280.672" timestamp="1680822084958" />
+    <state width="914" height="276" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1681165157919" />
+    <state width="1877" height="247" key="GridCell.Tab.0.left/1920.0.1280.688/0.0.1920.1032/-1280.52.1280.1024@0.0.1920.1032" timestamp="1681600615585" />
+    <state width="914" height="276" key="GridCell.Tab.0.left/1920.0.1280.688/0.0.1920.1032@0.0.1920.1032" timestamp="1681280706448" />
+    <state width="1877" height="247" key="GridCell.Tab.0.right" timestamp="1681600615586">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="277" key="GridCell.Tab.0.right/0.0.1280.672/0.-1080.1920.1032@0.-1080.1920.1032" timestamp="1680862578194" />
+    <state width="1237" height="160" key="GridCell.Tab.0.right/0.0.1280.672@0.0.1280.672" timestamp="1680822084958" />
+    <state width="914" height="276" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1681165157919" />
+    <state width="1877" height="247" key="GridCell.Tab.0.right/1920.0.1280.688/0.0.1920.1032/-1280.52.1280.1024@0.0.1920.1032" timestamp="1681600615586" />
+    <state width="914" height="276" key="GridCell.Tab.0.right/1920.0.1280.688/0.0.1920.1032@0.0.1920.1032" timestamp="1681280706449" />
+    <state x="512" y="246" key="com.intellij.ide.util.TipDialog" timestamp="1681594479935">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="341" y="160" key="com.intellij.ide.util.TipDialog/0.0.1280.672/0.-1080.1920.1032@0.-1080.1920.1032" timestamp="1680862441379" />
+    <state x="341" y="160" key="com.intellij.ide.util.TipDialog/0.0.1280.672@0.0.1280.672" timestamp="1680819763103" />
+    <state x="512" y="246" key="com.intellij.ide.util.TipDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1681163434524" />
+    <state x="512" y="246" key="com.intellij.ide.util.TipDialog/1920.0.1280.688/0.0.1920.1032/-1280.52.1280.1024@0.0.1920.1032" timestamp="1681594479935" />
+    <state x="512" y="246" key="com.intellij.ide.util.TipDialog/1920.0.1280.688/0.0.1920.1032@0.0.1920.1032" timestamp="1681279671438" />
+  </component>
+</project>
